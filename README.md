@@ -1,4 +1,4 @@
-# Distributed Key-Value Store System 
+# Distributed Key-Value Store System 2 Phase commit distributed consensus algorithm
 
 This repository contains the implementation of a simple distributed key-value store system using Java Remote Method Invocation (RMI). The system comprises multiple replica servers and a client that can interact with the store.
 
